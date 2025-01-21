@@ -22,3 +22,14 @@ git add .
 
 git commit -m "This is the description"
 - create commit
+
+Branching
+
+- List all the branches available.
+git branch -a
+
+- Create a new branch
+git branch "branch-name"
+
+- Switch to a different branch
+git switch "branch-name"
