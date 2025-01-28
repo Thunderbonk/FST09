@@ -21,7 +21,7 @@
 }
 
 .flexItem1 {
-  flex-grow: 0; /* Will not grow */
+  flex-grow: 0; /* Will not grow - default value*/
   flex-grow: 1; /* Willing to grow */
   flex-shrink: 1; /* Willing to shrink */
   flex-shrink: 0; /* Will not shrink */
